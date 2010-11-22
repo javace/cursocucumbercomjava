@@ -1,0 +1,4 @@
+$ gem install cucumber
+$ gem install selenium-client 
+$ gem install selenium-webdriver
+$ gem install capybara
