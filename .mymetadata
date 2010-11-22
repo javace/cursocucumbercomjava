@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CursoCucumberJava"
+  id="myeclipse.1290429330438"
+  context-root="/CursoCucumberJava"
+  j2ee-spec="5.0"
+  archive="CursoCucumberJava.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
