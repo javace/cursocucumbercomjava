@@ -1,4 +1,4 @@
-require 'spec/expectations'
+#require 'spec/expectations'
 require 'test/unit'
 require 'selenium/client'
 require 'selenium/rake/tasks'
