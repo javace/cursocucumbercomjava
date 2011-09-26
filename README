@@ -2,6 +2,7 @@ $ gem install cucumber
 $ gem install selenium-client 
 $ gem install selenium-webdriver
 $ gem install capybara
+$ gem install rspec # opcional
 
 # Instalação no Windows
 
